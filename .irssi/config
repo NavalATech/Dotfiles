@@ -2,7 +2,7 @@
 servers = (
   # {{{
   {
-    address = "irc.frozenwaste.net";
+    address = "fill_here";
     chatnet = "IceCrown";
     port = "6697";
     use_ssl = "yes";
